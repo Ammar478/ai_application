@@ -1,0 +1,2 @@
+Delivery SLA: Equipment is delivered within 2 business hours if the request is confirmed before 4 PM.
+Insurance: All rentals include basic insurance unless otherwise specified.
