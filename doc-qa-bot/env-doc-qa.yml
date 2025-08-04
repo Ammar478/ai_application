@@ -1,0 +1,18 @@
+name: doc-qa-bot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - langchain
+    - chromadb
+    - python-magic
+    - pdfplumber
+    - python-dotenv
+    - typer
+    - supabase
+    - psycopg2-binary
+    - pgvector
+    - langchain-community
